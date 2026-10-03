@@ -1,0 +1,21 @@
+name,type,value,rarity
+Iron Sword,Weapon,100,Common
+Dragon Slayer,Weapon,650,Epic
+Elven Bow,Weapon,300,Rare
+Health Potion,Potion,45,Common
+Mana Elixir,Potion,60,Rare
+Phoenix Tears,Potion,400,Epic
+Obsidian Shield,Armor,350,Rare
+Broken Item,Weapon,abc,Rare
+Invalid Item
+Staff of Wizardry,Magic,500,Epic
+Leather Boots,Armor,80,Common
+Steel Helmet,Armor,150,Common
+Dragon Scale Armor,Armor,900,Legendary
+Excalibur,Weapon,1500,Legendary
+Antidote,Potion,30,Common
+Amulet of Vision,Magic,250,Rare
+Cursed Ring,Magic,-50,Epic
+War Axe,Weapon,220,Rare
+Chainmail,Armor,200,Rare
+Elixir of Life,Potion,800,Legendary
